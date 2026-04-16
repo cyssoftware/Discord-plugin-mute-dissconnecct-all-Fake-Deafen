@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 Installation
-1. Download the plugin file `VoiceControlPlusPlus.plugin.js`.
+1. Download the plugin file `VoiceControl.plugin.js`.
 2. Move it into your BetterDiscord plugins folder:
    - Windows: `%appdata%/BetterDiscord/plugins`
    - macOS/Linux: `~/.config/BetterDiscord/plugins`
