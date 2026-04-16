@@ -8,7 +8,7 @@ module.exports = class VoiceControlPlusPlus {
     start() {
         this.addUI();
         this.addHotkeys();
-        console.log("VoiceControl++ FIXED Loaded 🔥");
+        console.log("VoiceControl++ FIXED Loaded ");
     }
 
     stop() {
