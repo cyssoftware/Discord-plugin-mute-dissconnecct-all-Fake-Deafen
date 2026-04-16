@@ -1,4 +1,4 @@
-# VoiceControlPlusPlus 🎙️
+# VoiceControl 🎙️
 
 > A BetterDiscord plugin that adds advanced voice channel controls (Mute, Unmute, Deafen, Disconnect) with hotkeys and UI panel.
 
