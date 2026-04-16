@@ -55,4 +55,4 @@
 ---
 
 ## 📄 License
-MIT License © 2026 Saif
+MIT License © 2026 CrimeWare
