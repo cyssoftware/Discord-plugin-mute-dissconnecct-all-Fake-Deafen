@@ -1,6 +1,6 @@
 /**
  * @author CrimeWare
- * @name VoiceControlPlusPlus FIXED
+ * @name VoiceControl
  * @version 1.2.0
  */
 
