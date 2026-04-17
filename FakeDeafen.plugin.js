@@ -1,6 +1,6 @@
 /**
- * @name saif
- * @author saif
+ * @name FakeDeafen
+ * @author CrimeWare
  * @description Fake being deafened or muted on Discord while still being able to talk.
  * @version 0.2.2
  */
